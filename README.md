@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, my name is Saullo :) I am currently majoring in Software Engineering at the Pontifical Catholic University of Minas Gerais and venturing into programming for 8 years. Feel free to look at my projects! 😄
+
 <!--
 **saullo/saullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
